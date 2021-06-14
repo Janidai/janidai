@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingrammer)](https://hits.seeyoufarm.com)
+
 ### Welcome!! 👋
 
 - 💰 I am like the bridge between Business and Technology. I help people achieve their needs and save time.
