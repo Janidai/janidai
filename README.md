@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning Neo4j, PowerBI, Graph Theory.
 - 💬 Ask me about: Innovative Product Development and Management, Python, and Social Network Analysis.
 
-[![janid's github stats](https://github-readme-stats.vercel.app/api?username=janidai&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Janidai/janidai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,4 +19,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[![janid's github stats](https://github-readme-stats.vercel.app/api?username=janidai&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
