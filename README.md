@@ -1,5 +1,12 @@
-### Hi there 👋
+### Welcome!! 👋
 
+- 💰 I am like the bridge between Business and Technology. I help people achieve their needs and save time.
+- 💻 Business, Python and R developer.
+- 🤖 I love Data Science, Automation, Webscraping, and Finance.
+- 🌱 I’m currently learning Neo4j, PowerBI, Graph Theory.
+- 💬 Ask me about: Innovative Product Development and Management, Python, and Social Network Analysis.
+- 📫 How to reach me: 
+[![janid's github stats](https://github-readme-stats.vercel.app/api?username=janidai&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Janidai/janidai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
