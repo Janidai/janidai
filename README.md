@@ -2,7 +2,7 @@
 ### Welcome!! 👋
 
 - 💰 I am like the bridge between Business and Technology. I help people achieve their needs and save time.
-- 🔭 I’m currently working on building a knowledge management platform and matching algorithm between researchers and companies.
+- 🔭 I’m currently working on building a matching algorithm between researchers and companies.
 - 💻 Business, Python and R developer.
 - 🤖 I love Data Science, Automation, Webscraping, and Finance.
 - 🌱 I’m currently learning Neo4j, PowerBI, Graph Theory.
