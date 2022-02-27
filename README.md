@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on building a matching algorithm between researchers and companies.
 - 💻 Business, Python and R developer.
 - 🤖 I love Data Science, Automation, Webscraping, and Finance.
-- 🌱 I’m currently learning Neo4j, PowerBI, Graph Theory.
+- 🌱 I’m currently learning Neo4j, PowerBI, Graph Theory, Process mining.
 - 💬 Ask me about: Innovative Product Development and Management, Python, and Social Network Analysis, knowledge mangement.
 
 <!--
