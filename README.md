@@ -3,8 +3,8 @@
 
 - 💰 I am like the bridge between Business and Technology. I help people achieve their needs and save time.
 - 🔭 I’m currently working on building a matching algorithm between researchers and companies.
-- 💻 Business, Python, R and C developer.
-- 🤖 I love Data Science, Automation, Webscraping, and Finance.
+- 💻 Experienced Business, Python, R and C developer.
+- 🤖 Proven Track in Data Science, Automation, Webscraping, Finance and IoT.
 - 🌱 I’m currently learning Neo4j, PowerBI, Graph Theory, Process mining.
 - 💬 Ask me about: Innovative Product Development and Management, Python, and Social Network Analysis, knowledge mangement.
 
