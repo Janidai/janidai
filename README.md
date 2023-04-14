@@ -1,12 +1,11 @@
 
 ### Welcome!! 👋
 
-- 💰 I am like the bridge between Business and Technology. I help people achieve their needs and save time.
-- 🔭 I’m currently working on building a matching algorithm between researchers and companies.
+- 💰 I am like the bridge between Business and Technology.
+- ⚡ I help people achieve their needs and save time.
 - 💻 Experienced Business, Python, R and C developer.
-- 🤖 Proven Track in Data Science, Automation, Webscraping, Finance and IoT.
-- 🌱 I’m currently learning Neo4j, PowerBI, Graph Theory, Process mining.
-- 💬 Ask me about: Innovative Product Development and Management, Python, and Social Network Analysis, knowledge mangement.
+- 🤖 I can help you with: IoT, Automation, Webscraping, Finance and Business Strategy Projects.
+- 🌱 I’m currently meditating a lot, taking care of a garden and spending quality time with my parents.
 
 <!--
 **Janidai/janidai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
