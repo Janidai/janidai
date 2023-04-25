@@ -5,7 +5,7 @@
 - ⚡ I help people achieve their needs and save time.
 - 💻 Experienced Business Analyst, Python, R and C developer.
 - 🤖 I can help you with: IoT, Automation, Webscraping, Finance and Business Strategy Projects.
-- 🌱 I’m currently meditating a lot, taking care of a garden and spending quality time with my parents.
+- 🌱 I’m currently exploring new business opportunities, feel free to contact me at janid.sinbad@gmail.com  
 
 <!--
 **Janidai/janidai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
