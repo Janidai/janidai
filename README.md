@@ -3,7 +3,7 @@
 
 - 💰 I am like the bridge between Business and Technology.
 - ⚡ I help people achieve their needs and save time.
-- 💻 Experienced Business Analyst, Python, R and C developer.
+- 💻 Business Analyst, Python, R and C developer.
 - 🤖 I can help you with: IoT, Automation, Webscraping, Finance and Business Strategy Projects.
 
 
