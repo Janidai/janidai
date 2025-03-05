@@ -1,7 +1,6 @@
 
 ### Welcome!! 👋
 
-🤖 I can help you with: IoT, Automation, Webscraping, Finance and Business Strategy Projects.
 
 
 <!--
